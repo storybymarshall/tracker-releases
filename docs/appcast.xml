@@ -6,6 +6,16 @@
     <description>Tracker updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1</title>
+      <pubDate>Sat, 24 Oct 2026 01:37:26 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;A new theme inspired by the Dune films.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;New &lt;b&gt;Dune&lt;/b&gt; theme (View › Theme): a glowing desert sky, a backlit dune, and fine sand drifting across the desk&lt;/li&gt;&lt;li&gt;Spice-orange started steps and a Fremen-blue key-step star&lt;/li&gt;&lt;li&gt;Matrix card borders now follow each card's color&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/storybymarshall/tracker-releases/releases/download/v1.1/Tracker.zip" sparkle:edSignature="ImQzrqM1H1YBfOscrNMLK1BRf1RMUPYDViEMCf3OT1SlRuIXCGHbcaTxm40OJXdT8LhCFmJrTbO/o+en5iANCQ==" length="2090139" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0</title>
       <pubDate>Sat, 24 Oct 2026 00:51:00 GMT</pubDate>
       <sparkle:version>1</sparkle:version>
