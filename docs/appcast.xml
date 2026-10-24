@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Tracker</title>
     <link>https://storybymarshall.github.io/tracker-releases/appcast.xml</link>
     <description>Tracker updates</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <pubDate>Sat, 24 Oct 2026 00:51:00 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;The first release of Tracker for everyone.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Themes:&lt;/b&gt; View › Theme has nine looks: Classic, Library, Midnight, Blueprint, Sunday, Neon, Field, Matrix, and Sorbet.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Updates:&lt;/b&gt; Tracker now checks for new versions by itself. You can also choose Tracker › Check for Updates… at any time.&lt;/li&gt;&lt;li&gt;The archive button on a card's back shows the steps you've completed.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/storybymarshall/tracker-releases/releases/download/v1.0/Tracker.zip" sparkle:edSignature="QYbkXHuTnTR7V+k+z1R/6YDOaT/PM7jsMgHacB2EmkJPOSN6bJS+2akgKB2c5+aoLzqC1C+90PXi5+TXvIKgDA==" length="2040148" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
